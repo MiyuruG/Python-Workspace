@@ -33,3 +33,5 @@ while True:
         print("You were below the number!")
 
 print("You got it in", guesses, "guesses")
+
+# read the commitment
