@@ -8,7 +8,7 @@ WIDTH, HEIGHT = 750, 650
 WIN = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption("Survive From Trash")
 
-BG = pygame.image.load("images/trash2.jpg")
+BG = pygame.image.load("trash2.jpg")
 
 PLAYER_WIDTH = 40
 PLAYER_HEIGHT = 60
